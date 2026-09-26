@@ -250,5 +250,5 @@ Two things worth knowing:
 | **Bind** | Feature 4 VayuMitra (advisory · voice · i18n) · Feature 5 · unified backend · deploy |
 
 <div align="center">
-<sub>Built in 3 weeks for ET AI Hackathon 2026 · PS5 · Made with care for the 30 million people breathing Delhi's air 🫁</sub>
+<sub>Built for ET AI Hackathon 2026 · Made with care for the 30 million people breathing Delhi's air 🫁</sub>
 </div>
